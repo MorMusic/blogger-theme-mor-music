@@ -23,24 +23,24 @@
     <b:include data='blog' name='all-head-content'/>
 
 <!-- Custom Favicon from Neocities -->
-<link href='https://mordictionary.neocities.org/Images/Favicons/16%20Rounded%20MorDictionary%20Favicon.png' rel='icon' sizes='16x16' type='image/png'/>
-<link href='https://mordictionary.neocities.org/Images/Favicons/32%20Rounded%20MorDictionary%20Favicon.png' rel='icon' sizes='32x32' type='image/png'/>
-<link href='https://mordictionary.neocities.org/Images/Favicons/48%20Rounded%20MorDictionary%20Favicon.png' rel='icon' sizes='48x48' type='image/png'/>
-<link href='https://mordictionary.neocities.org/Images/Favicons/57%20Rounded%20MorDictionary%20Favicon.png' rel='apple-touch-icon' sizes='57x57'/>
-<link href='https://mordictionary.neocities.org/Images/Favicons/60%20Rounded%20MorDictionary%20Favicon.png' rel='apple-touch-icon' sizes='60x60'/>
-<link href='https://mordictionary.neocities.org/Images/Favicons/72%20Rounded%20MorDictionary%20Favicon.png' rel='apple-touch-icon' sizes='72x72'/>
-<link href='https://mordictionary.neocities.org/Images/Favicons/76%20Rounded%20MorDictionary%20Favicon.png' rel='apple-touch-icon' sizes='76x76'/>
-<link href='https://mordictionary.neocities.org/Images/Favicons/114%20Rounded%20MorDictionary%20Favicon.png' rel='apple-touch-icon' sizes='114x114'/>
-<link href='https://mordictionary.neocities.org/Images/Favicons/120%20Rounded%20MorDictionary%20Favicon.png' rel='apple-touch-icon' sizes='120x120'/>
-<link href='https://mordictionary.neocities.org/Images/Favicons/144%20Rounded%20MorDictionary%20Favicon.png' rel='apple-touch-icon' sizes='144x144'/>
-<link href='https://mordictionary.neocities.org/Images/Favicons/152%20Rounded%20MorDictionary%20Favicon.png' rel='apple-touch-icon' sizes='152x152'/>
+<link href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpIbCNxZnCVLsqgPEu7pS5DQg86RBn990aOB0qbBfwrBeqJisXGMWsgyTWlV3nSDJWu32kFfwudDy3OrTqNtpeYvptO4K00opHCi41wU4p6vej1ru5cLR1LQVRCjiT-y4GBLRVWDtubonvwGcAB6HzxsNb6MHY8KPSUyIwHRH1dYaWD1DxVuTtpIND9CU/s1600/favicon-16x16.png' rel='icon' sizes='16x16' type='image/png'/>
+<link href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy41etZa4WoytPdz_WYzVX3fNn_Gu6J4DjMiqAxcJ8W06nr0SnQaBHRBu2RfKp9M7eDCJWiHz7j6P6PjMugbcIBsSMIkTHXfnbzPSw4DTNQFq48CFHsFrPxOQsp3vGP6oEFFWPI7YmBq0_5fnrQ4c3AfhsMH02dT2nOsyWZOCXhZ0Jb0Vw33gvWjifMys/s1600/favicon-32x32.png' rel='icon' sizes='32x32' type='image/png'/>
+<link href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9emiSMOYwyIzUsayHv8oAOCWYRpFvhvEuI8KhQinKHOJ5CeNeDWU4uCl6JHRbsq58v294-5_3Cqhpx0vX_8d00iZ1b1mXKdJIOborz1q9NHLCvRUqvgIuS7DaFsLmpS6mxQHwuucltBkC7a-mnZbTTKA6kXGBXqrpMRSc-HehWETdk9eA2aUyWmpXFkI/s1600/48px%20Ice%20Music%20Waifu%20Favicon.png' rel='icon' sizes='48x48' type='image/png'/>
+<link href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEklA_4mWCLLd703bgv2v8jjBhMRl4cxd6DdLRJxrJymSSd8Dd6gCQwxsmLcDUWUy1kry29abT1xX2haY62d_jATTLxiwDkS68vD59sDQvQT2YDYJsmyRauBIKZ2HaGsUh0E-Z8oHhEzPQ3IkiW0fi64igoHWYHHeaGK-t0wXTwGh3St46ept5J7_Dpvs/s1600/57px%20Ice%20Music%20Waifu%20Favicon.png' rel='apple-touch-icon' sizes='57x57'/>
+<link href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG4yfgGKz9eqEdGXAxURjQPf4jv6nFTQf8QWjYqQMrzuOtJ2LWy_mTDeOzyXqf6sI2Aym-8xNPo9-S_wuJXwk2Ch_GXwWgDd7Qtbm9lmEDA1_UR0Lvq4-Gp3N-H2h6WeiLAweFsYroCF4bNDUULakfjH18jyE78fHpdR6ypyB6s9rUTv7UDBFy-in7_NA/s1600/60px%20Ice%20Music%20Waifu%20Favicon.png' rel='apple-touch-icon' sizes='60x60'/>
+<link href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr8zMnxo6wJNNnaiC0TD5vGbUFnxKs_ISeeMgJWcJF81ncjG3hlOVJveMMJUZou-WG9L72-Eu4xPazhWV9Pc2wUvJJvm68PjswK59LSJECmfUMTo2t48-v3hFQRihch6x7zBxoPZso0iKhP1L48f6OX4BHgF7pzIUG5K7Q5GpaJlVXjOGQuAlawAl7Y9w/s1600/72px%20Ice%20Music%20Waifu%20Favicon.png' rel='apple-touch-icon' sizes='72x72'/>
+<link href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguEqIMP-q-Sihnu-JcWto49ML_Zbrkue1OkwHx-mcXzfxCo8dsPiRLjM_vgv60iyrFL4veeQRDWqHIzajFhKC-dMfoXnWyHdov85DsLupt19ea8nzHbjKDJvD1g2o7mR2TtPZoUvWET9v0llbEV38nzkr-WD3icNCP-1kaWEYpGGpu55-NrrtqwoLuUXI/s1600/76px%20Ice%20Music%20Waifu%20Favicon.png' rel='apple-touch-icon' sizes='76x76'/>
+<link href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibTywQzleNFfIadBRyEXp-aSaf1wdOxDWIui-kPMXySKlgjs1M6_7XEGjjAe3fIzBlpcPRlGPACst6CWVKA0V-zUz7Ia9q9Sg2ZZAIcawGDCUfLFvBEJeZUX1fKl4_e48czA9hEQ001c2yQwggCdf1nHe4tYXsDcGIUZJCAdCOl4H8x8nSlz0EBkxp958/w114-h114/114px%20Ice%20Music%20Waifu%20Favicon.png' rel='apple-touch-icon' sizes='114x114'/>
+<link href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMx9JBfNjdwWKGD5gfl6ipyThdS-lxP7BdNE5Gkkd9CWz6LyL1ZC23rFUbTQyRog-SYMl3k_JKa2995Vnds0b4X3RdxOOrs7htMbl5MvgAsLdjcLM3DgVG6LxwCmWptuBah7esMuSuWdOtHQ_xCPaOB7A3L4tVcXPNItDBK0z4aW5kT210e-dSDp8D8M8/s1600/120px%20Ice%20Music%20Waifu%20Favicon.png' rel='apple-touch-icon' sizes='120x120'/>
+<link href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXO7AQnyJp-WfYtfIKhH5-Y7PKrE6fIGWH9LzivwVKaQSWmyxnRAdfS50ejjw2_-vLJuz1xgCVhX-5EYscTrilA7NcGbtOCrTo7PQBzQkCvW5gtqCFvHLmvFkU4AFnxA1xglDb85xAsOkQBkBclLFPlN9KzgIQmUMc2SPJNIhjrTF_ulvGLolYnp_gu9o/s1600/144px%20Ice%20Music%20Waifu%20Favicon.png' rel='apple-touch-icon' sizes='144x144'/>
+<link href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyhpKpCxqx82a4x39OjddTNk8IiIvQo-kc4K0Q548MewMN74XF61b27C_SsJ824Qok5ZWBAKAHwHDL596sBmzB6-7Vdrb90tGFA_3gyxV091QghcUO9xRz1F7fGNsYkA0uJ8_QgN3gFmtIgH8y1ullGDUQ42GaNGg75kFqHh6Toa9MaM9HQXRjUJCl7Fw/s1600/152px%20Ice%20Music%20Waifu%20Favicon.png' rel='apple-touch-icon' sizes='152x152'/>
 <link href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQnUq_79JHdCz68hNm39CD8x-dJr3XvT58cZiSMs1VLALpy4L0GsU2Ih_5seMWL2-cnfW6St1nwXfGUkqReGLUMyKi63jJtVbMZo4Vo0HZGhAx-MSgLMA7LkB2UmNYMJIDNCwAxweAHYttNFrYBUyuEBsbFPNj0z4oR1um7VLecG_dHz-uCeRej4nr038/s1600/192px%20Ice%20Music%20Waifu%20Favicon.png' rel='icon' sizes='192x192' type='image/png'/>
 <link href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnPGCW6ynraJEdgSFqQicLPK5r5dzgMtfl6vRGKEgoajEdSiumPy2Z_Pvz6OBHY6DW8ESnm57ZrPiDMr00o162t58cnuRSLgSAJwhAwivZ6OP6_onbVRCXFkIAZGgrwHvlYEs85MVZ0cqvs_GVElwXoi68xe2ea63UQyTx_FRqkLFIKEbt4Sqq4rhdqgs/s16000/256px%20Ice%20Music%20Waifu%20Favicon.png' rel='icon' sizes='256x256' type='image/png'/>
 
     <meta content='#ffffff' name='msapplication-TileColor'/>
   <meta content='MorMusic' property='og:title'/>
 <meta content='Join the musical memorists on the musical front opposing the musical oblivescence!' property='og:description'/>
-<meta content='https://github.com/WearYourDictionary/wear-your-dictionary-blogger-theme/blob/f3b1e6ebf3789dea7109ed6400ba60ce317f993b/WearYourDictionary%20Blogspot%20Favicons/WearYourDictionary%20180%20Favicon.png' property='og:image'/>
+<meta content='https://github.com/MorMusic/blogger-theme-mor-music/blob/main/Images-%20MorMusic/Favicons-MorMusic/favicon.ico' property='og:image'/>
 <meta content='https://musicmoribundinstitute.blogspot.com' property='og:url'/>
 
   <meta content='summary_large_image' name='twitter:card'/>
@@ -3925,7 +3925,7 @@ window.addEventListener('DOMContentLoaded', function() {
             &#169; <script type='text/javascript'>document.write(new Date().getFullYear());</script> MorMusic<br/>
             Licensed under the 
             <a href='https://opensource.org/licenses/MIT' rel='noopener noreferrer' target='_blank'>MIT License</a>.<br/>
-            <a href='https://github.com/MorDictionary/blogger-theme-mor-dictionary/tree/main' rel='noopener noreferrer' target='_blank'>
+            <a href='https://github.com/MorMusic/blogger-theme-mor-music/tree/main' rel='noopener noreferrer' target='_blank'>
               GitHub Repository
             </a>
           </div>
